@@ -39,9 +39,9 @@ Besides programming, I'm love Yorushika music <br />
 
 **Showcase:**
 - [Caro](https://www.youtube.com/watch?v=GKCaw_Bp7lo)
-- [Husc FB Bot](youtube.com/watch?v=eDa8BSe_z6Q)
-- [Scoring System](youtube.com/watch?v=2nG2I4Gb7Q4)
-- [Auto Reg Clone](youtube.com/watch?v=eREeYYYlGGQ)
+- [Husc FB Bot](https://www.youtube.com/watch?v=eDa8BSe_z6Q)
+- [Scoring System](https://www.youtube.com/watch?v=2nG2I4Gb7Q4)
+- [Auto Reg Clone](https://www.youtube.com/watch?v=eREeYYYlGGQ)
 
 ```text
 ⌚︎ Timezone: Asia/Ho_Chi_Minh
