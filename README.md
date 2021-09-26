@@ -23,7 +23,7 @@ I'm a **Full Stack Developer**  <br />
 I strongest know some javascript things. I'll try my best to master 📢  <br />
 Besides programming, I'm love Yorushika music <br />
 
-  <img align="right" alt="GIF" src="https://c.tenor.com/kFNtXOJGyooAAAAC/azura-bonk-azura.gif" />
+  <img align="right" alt="GIF" src="https://c.tenor.com/kFNtXOJGyooAAAAC/azura-bonk-azura.gif" width="250px"/>
   
 **Miscellaneous:**
 
@@ -37,14 +37,19 @@ Besides programming, I'm love Yorushika music <br />
   - 📫 How to reach me: <ducyk41cntt@gmail.com>;
   - 📝[Resume](https://www.linkedin.com/in/tranducy/)
 
+**Showcase:**
+- [Caro](https://www.youtube.com/watch?v=GKCaw_Bp7lo)
+- [Husc FB Bot](youtube.com/watch?v=eDa8BSe_z6Q)
+- [Scoring System](youtube.com/watch?v=2nG2I4Gb7Q4)
+- [Auto Reg Clone](youtube.com/watch?v=eREeYYYlGGQ)
 
 ```text
 ⌚︎ Timezone: Asia/Ho_Chi_Minh
 
 💬 Languages: 
 JS                       █████████████████░░░░░░░░   69.81% 
-Objective C        ████████░░░░░░░░░░░░░░░░░░   20% 
-Java                    ██████████░░░░░░░░░░░░░░░░░      35% 
+Objective C                    ████████░░░░░░░░░░░░░░░░░░   20% 
+Java                      ██████████░░░░░░░░░░░░░░░░░      35% 
 ```
 
 
