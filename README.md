@@ -1,6 +1,6 @@
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
+[![Actions Status](https://github.com/ducy23061999/ducy23061999/workflows/wakatime-stats/badge.svg)](https://github.com/ducy23061999/ducy23061999/actions)
+[![Actions Status](https://github.com/ducy23061999/ducy23061999/workflows/update-gh-activity/badge.svg)](https://github.com/ducy23061999/ducy23061999/actions)
+![](https://visitor-badge.glitch.me/badge?page_id=ducy23061999)
 
 ### Hello 👋, I'm [>_gys](https://www.facebook.com/Tranducy1999/) 
 
