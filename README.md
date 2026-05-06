@@ -192,7 +192,6 @@
 	</a>
 </p>
 
-
 ### 🤖 AI / Machine Learning (Beginner)
 
 <p>
@@ -208,10 +207,21 @@
 	<a href="https://github.com/search?q=user%3Agys-dev+scikit-learn">
 		<img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E.svg?logo=scikit-learn&logoColor=white">
 	</a>
+	<a href="https://github.com/search?q=user%3Agys-dev+tensorflow">
+		<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white">
+	</a>
+	<a href="https://github.com/search?q=user%3Agys-dev+unsloth">
+		<img alt="Unsloth" src="https://img.shields.io/badge/Unsloth-000000.svg">
+	</a>
 </p>
 
 <p>
-	📌 Currently learning core ML concepts: Linear Regression, Logistic Regression, and Model Evaluation  
+	📌 Beginner in Machine Learning and AI 
+	</br>
+	📌 Learning core concepts: Linear Regression, Logistic Regression, Model Evaluation  
+	</br>
+	📌 Exploring deep learning frameworks (TensorFlow) and LLM fine-tuning tools (Unsloth)  
+	</br>
 	📌 Implementing algorithms from scratch for deeper understanding  
 </p>
 
