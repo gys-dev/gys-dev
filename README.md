@@ -136,8 +136,8 @@
 <details open>
 	<summary>💻 GitHub Profile Stats</summary>
 	<br/>
-	<a href="https://github.com/gys-dev/gys-dev"><img alt="NomanIqbal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gys-dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"  height="188px"/></a>
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="NomanIqbal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gys-dev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="188px"/></a>
+	<a href="https://github.com/gys-dev/gys-dev"><img alt="NomanIqbal's Github Stats" src="https://github-stats-extended.vercel.app/api?username=gys-dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"  height="188px"/></a>
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="NomanIqbal's Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gys-dev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="188px"/></a>
   <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
@@ -145,11 +145,11 @@
 <details>
 	<summary>⚡ Top GitHub Directories</summary>
 	<br/>
-	<a href="https://github.com/gys-dev/gys-dev"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gys-dev&repo=gys-dev&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/gys-dev/ansible-public-playbooks"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gys-dev&repo=ansible-public-playbooks&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/gys-dev/browcall-gate"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gys-dev&repo=browcall-gate&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/gys-dev/graphics-gcc-formac"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gys-dev&repo=graphics-gcc-formac&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/VNBot-Developers/Drive-Bot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VNBot-Developers&repo=Drive-Bot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/gys-dev/gys-dev"><img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=gys-dev&repo=gys-dev&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/gys-dev/ansible-public-playbooks"><img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=gys-dev&repo=ansible-public-playbooks&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/gys-dev/browcall-gate"><img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=gys-dev&repo=browcall-gate&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/gys-dev/graphics-gcc-formac"><img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=gys-dev&repo=graphics-gcc-formac&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/VNBot-Developers/Drive-Bot"><img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=VNBot-Developers&repo=Drive-Bot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 </details>
 
 <details open>
