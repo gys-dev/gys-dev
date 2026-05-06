@@ -154,31 +154,24 @@
 ### 🔧 Software, Technologies and Tools
 
 <p>
-	<!-- Version Control -->
 	<a href="https://github.com/search?q=user%3Agys-dev+git">
 		<img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white">
 	</a>
 	<a href="https://github.com/search?q=user%3Agys-dev+github">
 		<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white">
 	</a>
-
-	<!-- Dev Environment -->
 	<a href="https://github.com/search?q=user%3Agys-dev+vscode">
 		<img alt="VS Code" src="https://img.shields.io/badge/VSCode-007ACC.svg?logo=visual-studio-code&logoColor=white">
 	</a>
 	<a href="https://github.com/search?q=user%3Agys-dev+postman">
 		<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white">
 	</a>
-
-	<!-- Package & Runtime -->
 	<a href="https://github.com/search?q=user%3Agys-dev+npm">
 		<img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white">
 	</a>
 	<a href="https://github.com/search?q=user%3Agys-dev+yarn">
 		<img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?logo=yarn&logoColor=white">
 	</a>
-
-	<!-- DevOps & Infra -->
 	<a href="https://github.com/search?q=user%3Agys-dev+docker">
 		<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
 	</a>
@@ -188,21 +181,39 @@
 	<a href="https://github.com/search?q=user%3Agys-dev+aws">
 		<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white">
 	</a>
-
-	<!-- OS & Terminal -->
 	<a href="https://github.com/search?q=user%3Agys-dev+linux">
 		<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black">
 	</a>
 	<a href="https://github.com/search?q=user%3Agys-dev+bash">
 		<img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25.svg?logo=gnu-bash&logoColor=white">
 	</a>
-
-	<!-- CI/CD -->
 	<a href="https://github.com/search?q=user%3Agys-dev+github-actions">
 		<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github-actions&logoColor=white">
 	</a>
 </p>
 
+
+### 🤖 AI / Machine Learning (Beginner)
+
+<p>
+	<a href="https://github.com/search?q=user%3Agys-dev+language%3Apython">
+		<img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white">
+	</a>
+	<a href="https://github.com/search?q=user%3Agys-dev+numpy">
+		<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white">
+	</a>
+	<a href="https://github.com/search?q=user%3Agys-dev+pandas">
+		<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
+	</a>
+	<a href="https://github.com/search?q=user%3Agys-dev+scikit-learn">
+		<img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E.svg?logo=scikit-learn&logoColor=white">
+	</a>
+</p>
+
+<p>
+	📌 Currently learning core ML concepts: Linear Regression, Logistic Regression, and Model Evaluation  
+	📌 Implementing algorithms from scratch for deeper understanding  
+</p>
 
 ---
  
