@@ -26,7 +26,22 @@
  <p>
   <img align="left" alt="GIF" src="https://github.com/gys-dev/gys-dev/blob/master/icon/coder.gif?raw=true" width="200" />
 </p>
-<p align="center"> I am <img src="https://github.com/gys-dev/gys-dev/blob/master/icon/Me.png?raw=true" width="45"> <a href="https://github.com/gys-dev/MyResume/" target="_blank"><strong>Y TRAN</strong></a>, a software engineer, researcher, and data scientist from Pakistan, currently pursuing a Ph.D. <img src="https://github.com/gys-dev/gys-dev/blob/master/icon/DS.png?raw=true" width="20"> in Traffic Information Engineering and Control at Chang’an University, China. My expertise includes AI, machine learning, deep learning, big data, and behavioral analytics, with hands-on experience in Python, MATLAB, and TensorFlow. I have contributed to research on driver behavior analysis, including studies on uneven road surfaces and driving safety, vehicle speed dynamics, and credit card fraud detection. I am dedicated to developing innovative solutions and advancing intelligent transportation systems.</p>
+<p align="center">
+  Hi, I’m <img src="https://github.com/gys-dev/gys-dev/blob/master/icon/Me.png?raw=true" width="45"> 
+  <a href="https://github.com/gys-dev/MyResume/" target="_blank"><strong>Y Tran</strong></a>, 
+  a Fullstack JavaScript Developer from Viet Nam 🇻🇳. 
+  <img src="https://github.com/gys-dev/gys-dev/blob/master/icon/DS.png?raw=true" width="20"> 
+  I graduated from Hue University of Sciences.
+  
+  <br/><br/>
+  
+  I specialize in full-cycle software development, building dynamic web and mobile applications from idea to deployment. 
+  I have experience across most stages of the development lifecycle and enjoy delivering high-quality, end-to-end solutions.
+  
+  <br/><br/>
+  
+  My core skills include JavaScript and its ecosystem (Node.js, React, React Native), along with solid knowledge of HTML5, CSS, and SQL.
+</p>
 
 
 ## 🔥 Streak Stats
