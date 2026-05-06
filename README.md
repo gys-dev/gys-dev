@@ -274,14 +274,6 @@
 	<a href="https://github.com/VNBot-Developers/Drive-Bot"><img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=VNBot-Developers&repo=Drive-Bot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 </details>
 
-<details open>
-<summary>💡 Profile visitors</summary>
-<p align="center">:round_pushpin: Profile visitors</p>
-<div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/gys-dev/count.svg">
-</div>
-</details>
-
 
 <!--- ## ✡️ Stargazers 👇
 
