@@ -151,32 +151,56 @@
 	</a>
 </p>
 
-### 🔧 Software, Technologies and tools
+### 🔧 Software, Technologies and Tools
 
 <p>
-	<a href="#"><img alt="OS-Linux" src="https://img.shields.io/badge/Linux-1793D1.svg?logo=linux&logoColor=white"></a>
-    	<a href="#"><img alt="IDE-Pycharm" src="https://img.shields.io/badge/-PyCharm-0000CC?logo=pycharm&logoColor=white"></a>
-    	<a href="#"><img alt="IDE-Visualstudio" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    	<a href="#"><img alt="SPSS" src="https://img.shields.io/badge/-SPSS-FB542B?logo=ibm&logoColor=white"></a>
-    	<a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-000000.svg?logo=microsoftsqlserver&logoColor=white"></a>
-    	<a href="#"><img alt="Tobii Pro Lab" src="https://img.shields.io/badge/Tobii%20Pro-00b56a.svg?logo=eyeem&logoColor=white"></a>
-    	<a href="#"><img alt="PDP-Anaconda" src="https://img.shields.io/badge/-Anaconda-141E24?logo=anaconda&logoColor=white"></a>
-    	<a href="#"><img alt="VIDE-JupyterNotebook" src="https://img.shields.io/badge/Jupyter%20NoteBook-F37626.svg?logo=Jupyter&logoColor=white"></a>
-	<a href="#"><img alt="Tech-MachineLearning" src="https://img.shields.io/badge/Machine%20Learning-F05033.svg?logo=git&logoColor=white"></a>
-    	<a href="#"><img alt="Tech-DataScience" src="https://img.shields.io/badge/Data%20Science-18A497?logo=teradata&logoColor=white"></a>
-    	<a href="#"><img alt="Tech-DataMining" src="https://img.shields.io/badge/Data%20Mining-FF6C37?logo=teradata&logoColor=white"></a>
-	<a href="#"><img alt="Tech-ComputerVision" src="https://img.shields.io/badge/Computer%20Vision-3DDC84?logo=teradata&logoColor=white"></a>
-	<a href="#"><img alt="Gitbash" src="https://img.shields.io/badge/Gitbash-DD1100.svg?logo=github&logoColor=white"></a>
-    	<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-	<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-	<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-	<a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important"></a>	
-	<a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2b%2b&logoColor=black"></a>	
-	<a href="#"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white"></a>
-	<a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"></a>
-	<a href="#"><img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white"></a>
- 
+	<!-- Version Control -->
+	<a href="https://github.com/search?q=user%3Agys-dev+git">
+		<img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white">
+	</a>
+	<a href="https://github.com/search?q=user%3Agys-dev+github">
+		<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white">
+	</a>
 
+	<!-- Dev Environment -->
+	<a href="https://github.com/search?q=user%3Agys-dev+vscode">
+		<img alt="VS Code" src="https://img.shields.io/badge/VSCode-007ACC.svg?logo=visual-studio-code&logoColor=white">
+	</a>
+	<a href="https://github.com/search?q=user%3Agys-dev+postman">
+		<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white">
+	</a>
+
+	<!-- Package & Runtime -->
+	<a href="https://github.com/search?q=user%3Agys-dev+npm">
+		<img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white">
+	</a>
+	<a href="https://github.com/search?q=user%3Agys-dev+yarn">
+		<img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?logo=yarn&logoColor=white">
+	</a>
+
+	<!-- DevOps & Infra -->
+	<a href="https://github.com/search?q=user%3Agys-dev+docker">
+		<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
+	</a>
+	<a href="https://github.com/search?q=user%3Agys-dev+kubernetes">
+		<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white">
+	</a>
+	<a href="https://github.com/search?q=user%3Agys-dev+aws">
+		<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white">
+	</a>
+
+	<!-- OS & Terminal -->
+	<a href="https://github.com/search?q=user%3Agys-dev+linux">
+		<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black">
+	</a>
+	<a href="https://github.com/search?q=user%3Agys-dev+bash">
+		<img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25.svg?logo=gnu-bash&logoColor=white">
+	</a>
+
+	<!-- CI/CD -->
+	<a href="https://github.com/search?q=user%3Agys-dev+github-actions">
+		<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github-actions&logoColor=white">
+	</a>
 </p>
 
 
